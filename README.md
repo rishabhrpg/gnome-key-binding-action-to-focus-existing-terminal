@@ -30,5 +30,5 @@ fi;
 Place this script in the bin folder in your home folder and make it executable. Then under Keyboard Shortcuts (Settings - Keyboard), disable the existing hotkey for "Launch terminal" under the section "Launchers": click on it, then press Backspace to disable the current assignment. Then, in the section "Custom Shortcuts", create a new custom shortcut by clicking the + icon. Fill out the name of your script as the "command" and assign it the Ctrl+Alt+t shortcut.
 
 ## References
-(http://icculus.org/pipermail/openbox/2008-April/005611.html)
-(https://askubuntu.com/questions/200929/focus-existing-terminal-with-ctrl-alt-t-shortcut)
+* (http://icculus.org/pipermail/openbox/2008-April/005611.html)
+* (https://askubuntu.com/questions/200929/focus-existing-terminal-with-ctrl-alt-t-shortcut)
