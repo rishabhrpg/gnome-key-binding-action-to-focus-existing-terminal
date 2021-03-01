@@ -1,6 +1,7 @@
-# key-binding-action-to-focus-existing-terminal
+# gnome-key-binding-action-to-focus-existing-terminal
 Focus on existing terminal with given key binding or open a new one if none exists.
-
+## Prerequisites
+Install `wmctrl` ( `sudo apt-get install wmctrl` )
 ## Create `raise-terminal.sh` file
 ```
 #!/bin/sh
