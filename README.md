@@ -13,7 +13,6 @@ terminal_exec="gnome-terminal"
 if [ -z "`wmctrl -lx | grep gnome-terminal`" ]; then
     $terminal_exec &
 else
-   echo  "else case";
    wmctrl -xa 'gnome-terminal-server.Gnome-terminal'
 fi;
 ```
